@@ -1,6 +1,3 @@
-markdown
-Copy code
-
 Codetribe MongoDB Setup
 
 This repository contains MongoDB shell (Mongosh) commands to set up the Codetribe database, with three collections: `Facilitators`, `Trainees`, and `Projects`.
